@@ -16,4 +16,4 @@ Soon...
 
 ### Contact me
 
-[Zhaoqi.Zhang@tufts.edu](mailto:Zhaoqi.Zhang@tufts.edu)
+[Zhaoqi dot Zhang at tufts dot edu](mailto:Zhaoqi.Zhang@tufts.edu)
