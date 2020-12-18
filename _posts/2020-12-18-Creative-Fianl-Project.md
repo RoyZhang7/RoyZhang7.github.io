@@ -104,6 +104,8 @@ In this section, I will discuss about the methodology and evaluation of `Princip
 ___
 Picture source: `https://www.bcs.org/content-hub/history-of-the-cloud/`
 
+___
+
 The art and science of developing, deploying, and operating software is constantly in flux. New advances in computing hardware and software have dramatically pushed the boundaries of what an application looks like over the years.
 
 **Before Lamport Clock:**
