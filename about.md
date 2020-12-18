@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Ph.D. student majoring Computer Science at Tufts University.
+I am also indie-game developer and an ameteur fighter game player.
+
+Reasearch Interest:
+Distributed Tracing, Distributed System, Computer Networking
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Soon...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Zhaoqi.Zhang@tufts.edu](mailto:Zhaoqi.Zhang@tufts.edu)
