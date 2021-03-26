@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 A Ph.D. student majoring Computer Science at Tufts University.
-I am also indie-game developer and an ameteur fighter game player.
+I am also indie-game developer and an amateur fighter game player.
 
 Reasearch Interest:
 Distributed Tracing, Distributed System, Computer Networking
