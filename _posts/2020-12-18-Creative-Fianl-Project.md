@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creative Final Project for Fall 2020 Cloud Computing
+title: Debugging Tools for Cloud Computing
 ---
 
-- [My info & Paper selection](#my-info--paper-selection)
+- [Paper selection](#paper-selection)
 - [How each of selected papers relate to each other in big picture](#how-each-of-selected-papers-relate-to-each-other-in-big-picture)
 - [Problems of the papers](#problems-of-the-papers)
 - [Methods & Evaulation of the papers](#methods--evaulation-of-the-papers)
@@ -12,13 +12,9 @@ title: Creative Final Project for Fall 2020 Cloud Computing
   - [Tracing](#tracing)
 - [How each of paper is complementary to each other in detail](#how-each-of-paper-is-complementary-to-each-other-in-detail)
 
-## My info & Paper selection
+## Paper selection
 
-My name is **Zhaoqi Zhang**. I am writing this blog for the creative project for Comp 118 at Tufts Univesity in Fall 2020.
-
-Since I submit the URL of this blog, which obviously means that **I am doing `Option 1: Explain research to a general audience` for the creative project.**
-
-I am interested in **debugging tools for Cloud Computing**. I want to discuss how distributed tracing (workflow-centric tracing) fits in cloud computing, tracing origin, and how it is affected by cloud development, especially IaaS.
+I want to discuss how distributed tracing (workflow-centric tracing) fits in cloud computing, tracing origin, and how it is affected by cloud development, especially IaaS.
 
 Thus, **I selected the following paper**:
 
